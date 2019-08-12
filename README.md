@@ -3,5 +3,3 @@ I developed a new method for converting a dataset into 2D-dataframe for amyloid-
 
 Its permits data augmentation for deep-learning linking the pattern containing amino-acid position and the physical parameter.
 
-2019, Summer.
-
