@@ -5,27 +5,28 @@ Its permits data augmentation for deep-learning linking the pattern containing a
 
 [1](#1)
 
+[How to write readme] (https://docs.github.com/ja/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+
+
+
+## 1
+Parameter set
 
 
 
 
 
-# 1
+## 2
+Tile generator
 
 
 
 
 
 
-# 2
-
-
-
-
-
-
-
-# 3
+## 3
+CNN Deeplearning
 
 
 
