@@ -22,7 +22,7 @@ Its permits data augmentation for deep-learning linking the pattern containing a
 
 
 
-## 3. CNN Deeplearning
+## 3. Prediction
 
 
 
