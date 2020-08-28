@@ -1,9 +1,9 @@
 # 2D-tile DL
-I developed a method for converting a dataset into 2D-dataframe for convoluted neural network prediction.
+I developed a method for converting a matrix into 2D-dataframe for convoluted neural network prediction.
 
-Its permits data augmentation for deep-learning linking the pattern containing amino-acid position and the physical parameter.
+Its permits deep-learning of peptide sequence linking the pattern containing amino-acid position and the physical parameter.
 
-
+This program is constituted from 3 parts. 
 
 
 ## 1. Parameter set
@@ -11,10 +11,7 @@ Its permits data augmentation for deep-learning linking the pattern containing a
 
 
 
-
 ## 2. Tile generator
-
-
 
 
 
