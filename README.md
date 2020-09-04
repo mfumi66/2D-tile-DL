@@ -17,6 +17,6 @@ The pictures were sorted into One or Zero folder. Optionally it could be amplify
 
 
 ## 3. DL prediction
-For the DL prediction, I prepared the "Tile prediction" that constructed by keras CNN method.
+For the DL prediction, I prepared the "Tile prediction" that constructed from keras CNN method.
 
 
