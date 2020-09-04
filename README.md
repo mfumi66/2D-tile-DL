@@ -6,8 +6,6 @@ Its permits deep-learning of peptide sequence linking the pattern containing ami
 This program is constituted from 3 parts. 
 
 
-
-
 ## 1. Parameter set
 For execute the parameter set program, .csv file of amino acid sequences and phisical parameters were prepared.
 Finally you can get the .csv file as output, its uses for making the .png file in the next.
